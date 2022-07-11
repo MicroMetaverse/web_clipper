@@ -1,2 +1,3 @@
 # web_clipper
-web clipper
+web clipper：
+https://github.com/webclipper/web-clipper
